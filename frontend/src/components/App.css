@@ -1,0 +1,50 @@
+.page-title {
+    color: floralwhite;
+    font-family: cursive;
+}
+
+.black-bg {
+    background-color: black;
+}
+
+.cached-bg {
+    background-color: navy;
+}
+
+.title-text {
+    color: rgb(186, 236, 234);
+}
+
+.pg-inp {
+    margin: 20;
+    align-self: flex-start;
+}
+
+.row-grid {
+    margin: 10
+}
+
+.col-grid {
+    margin: 10;
+    justify-content: left;
+}
+
+.button {
+    margin: 20;
+    background-color: black;
+}
+
+.wrapper {
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapper > * {
+    padding: 20px;
+    background-color: black;
+}
+
+.page-main {
+    flex-grow: 1;
+}

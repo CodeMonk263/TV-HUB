@@ -1,0 +1,11 @@
+requests
+beautifulsoup4
+selenium
+lxml
+urllib3
+Scrapy3
+pylint
+django
+djangorestframework
+pylint-django
+django-cors-headers

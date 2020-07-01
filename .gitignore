@@ -1,0 +1,9 @@
+env
+frontend/node_modules/
+frontend/__pycache__/
+links_app/__pycache__/
+frontend/yarn.lock
+.vscode
+vids_api/__pycache__
+vids_collector/__pycache__
+**/__pycache__
